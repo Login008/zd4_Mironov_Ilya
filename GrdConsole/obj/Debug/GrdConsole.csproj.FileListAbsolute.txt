@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\Маринина\GrdConsole\bin\Debug\GrdConsole.exe.config
+C:\Users\305-11\Desktop\Маринина\GrdConsole\bin\Debug\GrdConsole.exe
+C:\Users\305-11\Desktop\Маринина\GrdConsole\bin\Debug\GrdConsole.pdb
+C:\Users\305-11\Desktop\Маринина\GrdConsole\bin\Debug\NaturalNumsLib.dll
+C:\Users\305-11\Desktop\Маринина\GrdConsole\bin\Debug\NaturalNumsLib.pdb
+C:\Users\305-11\Desktop\Маринина\GrdConsole\obj\Debug\GrdConsole.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Маринина\GrdConsole\obj\Debug\GrdConsole.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Маринина\GrdConsole\obj\Debug\GrdConsole.csproj.CopyComplete
+C:\Users\305-11\Desktop\Маринина\GrdConsole\obj\Debug\GrdConsole.exe
+C:\Users\305-11\Desktop\Маринина\GrdConsole\obj\Debug\GrdConsole.pdb

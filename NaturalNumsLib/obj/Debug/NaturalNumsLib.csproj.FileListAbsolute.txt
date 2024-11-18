@@ -1,0 +1,12 @@
+C:\Users\305-11\Desktop\Маринина\NaturalNumsLib\bin\Debug\NaturalNumsLib.dll
+C:\Users\305-11\Desktop\Маринина\NaturalNumsLib\bin\Debug\NaturalNumsLib.pdb
+C:\Users\305-11\Desktop\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.dll
+C:\Users\305-11\Desktop\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\Маринина\NaturalNumsLib\bin\Debug\NaturalNumsLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\Маринина\NaturalNumsLib\bin\Debug\NaturalNumsLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.csproj.AssemblyReference.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\Маринина\NaturalNumsLib\obj\Debug\NaturalNumsLib.pdb

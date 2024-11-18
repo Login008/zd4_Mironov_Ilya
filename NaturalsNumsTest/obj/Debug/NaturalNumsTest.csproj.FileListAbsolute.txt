@@ -1,0 +1,38 @@
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\NaturalsNumsTest.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\NaturalsNumsTest.pdb
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\NaturalNumsLib.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\NaturalNumsLib.pdb
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\obj\Debug\NaturalNumsTest.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\obj\Debug\NaturalNumsTest.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\obj\Debug\NaturalNumsTest.csproj.CopyComplete
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\obj\Debug\NaturalsNumsTest.dll
+C:\Users\305-11\Desktop\Маринина\NaturalsNumsTest\obj\Debug\NaturalsNumsTest.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\NaturalsNumsTest.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\NaturalsNumsTest.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\NaturalNumsLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\NaturalNumsLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\obj\Debug\NaturalNumsTest.csproj.AssemblyReference.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\obj\Debug\NaturalNumsTest.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\obj\Debug\NaturalNumsTest.csproj.CopyComplete
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\obj\Debug\NaturalsNumsTest.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\NaturalsNumsTest\obj\Debug\NaturalsNumsTest.pdb

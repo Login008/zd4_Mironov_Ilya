@@ -1,0 +1,10 @@
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\bin\Debug\GrdConsole.exe.config
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\bin\Debug\GrdConsole.exe
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\bin\Debug\GrdConsole.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\bin\Debug\NaturalNumsLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\bin\Debug\NaturalNumsLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\obj\Debug\GcdConsole.csproj.AssemblyReference.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\obj\Debug\GcdConsole.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\obj\Debug\GcdConsole.csproj.CopyComplete
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\obj\Debug\GrdConsole.exe
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\GrdConsole\obj\Debug\GrdConsole.pdb
